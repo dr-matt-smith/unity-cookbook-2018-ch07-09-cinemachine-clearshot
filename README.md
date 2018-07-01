@@ -1,1 +1,1 @@
-# -unity-cookbook-2018-ch06-09-cinemachine
+# unity-cookbook-2018-ch06-09-cinemachine
